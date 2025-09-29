@@ -1,6 +1,15 @@
+
 # CarrerasITAM — Comandos de Git
 
 Guia explicando los pasos que segui para subir mi codigo html
+
+Link de la pagina: https://marmarquezgi.github.io/CarrerasITAM/
+
+Link de la pagina original: https://carreras.itam.mx/carreras/
+
+Link del primer pull request: https://github.com/marmarquezgi/CarrerasITAM/pull/1
+
+Link del segundo pull request: https://github.com/marmarquezgi/CarrerasITAM/pull/2
 
 ## Pasos que seguí
 
